@@ -10,6 +10,9 @@
 [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 
 #### Tenho um breve conhecimento:
+[![Blog]()]()
+[![Blog]()]()
+[![Blog]()]()
 
 #### Como posso realiza contato?
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
