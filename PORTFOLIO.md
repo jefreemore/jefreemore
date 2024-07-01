@@ -1,8 +1,8 @@
 <!-- WELLCOME -->
-<body id="github-portfolio">
+<body id="github-portfolio" style="display: flex; flex-direction: column;">
     <!-- MENU -->
-    <header id="github-menu" style="display: flex; justify-content: center;">
-        <h1 class="title" style="color: red;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
+    <header id="github-menu"">
+        <h1 class="title" style="font-size: 10px;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
     </header>
     <!-- MAIN-CONTENT -->
     <main id="github-content">
