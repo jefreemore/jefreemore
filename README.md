@@ -12,4 +12,7 @@
 
 [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
-### Linguagens que tenho conhecimento:
+### Tenho conhecimento:
+
+
+### Tenho um breve conhecimento:
