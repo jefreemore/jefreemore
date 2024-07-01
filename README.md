@@ -1,6 +1,6 @@
 ## 😄Olá!, sejá muito bem vindo ao meu portfolio!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
+![JefersonFerrettiMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
 https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
 
 #### Tenho conhecimento:
