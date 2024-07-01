@@ -1,7 +1,8 @@
 ## 😄Olá!, sejá muito bem vindo ao meu portfolio!
 
-![JefersonFerrettiMoreira GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
+![JefersonFerrettiMoreira GitHub stats1](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
+![JefersonFerrettiMoreira GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green)
+
 
 #### Tenho conhecimento:
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
