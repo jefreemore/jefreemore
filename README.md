@@ -6,19 +6,22 @@
     </header>
     <!-- MAIN-CONTENT -->
     <main id="github-content">
-        <p class="gh-description">
-            Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.
-            Desde meus 14 anos, gosto de programar e montar meus próprios projetos.
-            Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
-        </p>
-        <div id="gh-contacts">
-            <h3 class="sub-title">Como posso realiza contato?</h3>
-            <img rel="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-            <img rel="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://api.whatsapp.com/send?phone=5519989437565&text=Ol%C3%A1!%2C%20voc%C3%AA%20que%20veio%20pelo%20GitHub%2C%20esse%20%C3%A9%20meu%20contato%20oficial%20do%20WhatsApp!">
-            <img rel="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-            <img rel="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-            <img rel="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-        </div>
+        <section class="section-1">
+            <p class="gh-description">
+                Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.
+                Desde meus 14 anos, gosto de programar e montar meus próprios projetos.
+                Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
+            </p>
+            <div id="gh-contacts">
+                <h3 class="sub-title">Como posso realiza contato?</h3>
+                <img rel="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+                <img rel="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://api.whatsapp.com/send?phone=5519989437565&text=Ol%C3%A1!%2C%20voc%C3%AA%20que%20veio%20pelo%20GitHub%2C%20esse%20%C3%A9%20meu%20contato%20oficial%20do%20WhatsApp!">
+                <img rel="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+                <img rel="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+                <img rel="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+            </div>
+        </section>
+        
     </main>
     <!-- END-CONTENT -->
     <footer id="github-endbar">
