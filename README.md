@@ -4,7 +4,7 @@
     <!-- WELLCOME -->
     <body id="github-portfolio">
         <!-- MENU -->
-        <header id="github-menu">
+        <header id="github-menu" style="display: flex; justify-content: center;">
             <h1 class="title" style="background-color: red;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
         </header>
         <!-- MAIN-CONTENT -->
