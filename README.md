@@ -1,7 +1,8 @@
 <!-- TITLE -->
 <h1 id="github-title" style="font-size: 10px;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
 
-<section class="description-section">
+<!-- DESCRIPTION -->
+<section id="description-section">
     <p class="description">
         Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.
         Desde meus 14 anos, gosto de programar e montar meus próprios projetos.
@@ -17,29 +18,25 @@
     </div>
 </section>
 
-<!-- MAIN-CONTENT -->
-    <main id="github-content">
-        
-        <section class="section-2">
-            ![JefersonFerrettiMoreira GitHub stats1](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
-            ![JefersonFerrettiMoreira GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green)
-        </section>
-        <section class="section-3">
-            #### Tenho conhecimento:
-            [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-            [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-            [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-            [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-            [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-            #### Tenho um breve conhecimento:
-            [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
-            [![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
-        </section>
-</main>
+<section id="stats-section">
+    ![JefersonFerrettiMoreira GitHub stats1](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
+    ![JefersonFerrettiMoreira GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green)
+</section>
 
-<!-- END-CONTENT -->
-<footer id="github-endbar">
-    <h3 class="sub-title">Outras redes sociais:</h3>
+<section class="know-section">
+    <h3 class="subtitle">Tenho conhecimento:</h3>
+    [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+    [![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+    [![Blog](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+    [![Blog](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+    [![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+    <h3 class="subtitle">Tenho um breve conhecimento:</h3>
+    [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
+    [![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
+</section>
+
+<section id="social-media-section">
+    <h3 class="subtitle">Outras redes sociais:</h3>
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</footer>
+</section>
