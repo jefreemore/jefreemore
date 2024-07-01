@@ -1,3 +1,12 @@
+<!DOCYTYPE html5>
+<html lang="pt-br">
+    <head>
+        <style>
+            body { background-color: red; }
+        </style>
+    </head>
+</html>
+
 <!-- WELLCOME -->
 <body id="github-portfolio">
     <!-- MENU -->
