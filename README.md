@@ -9,7 +9,7 @@
         Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
     </p>
     <div id="contacts">
-        <h3 class="subtitle">Como posso realiza contato?</h3>
+        <h4 class="subtitle">Como posso realiza contato?</h4>
         <img rel="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         <img rel="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://api.whatsapp.com/send?phone=5519989437565&text=Ol%C3%A1!%2C%20voc%C3%AA%20que%20veio%20pelo%20GitHub%2C%20esse%20%C3%A9%20meu%20contato%20oficial%20do%20WhatsApp!">
         <img rel="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -26,20 +26,20 @@
 
 <!-- LINGUAGE-KNOW -->
 <section id="know-section">
-    <h3 class="subtitle">Tenho conhecimento:</h3>
+    <h4 class="subtitle">Tenho conhecimento:</h4>
     <img rel="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img rel="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     <img rel="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img rel="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <h3 class="subtitle">Tenho um breve conhecimento:</h3>
+    <h4 class="subtitle">Tenho um breve conhecimento:</h4>
     <img rel="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img rel="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </section>
 
 <!-- SOCIAL-MEDIA-OTHES -->
 <section id="social-media-section">
-    <h3 class="subtitle">Outras redes sociais:</h3>
+    <h4 class="subtitle">Outras redes sociais:</h4>
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </section>
