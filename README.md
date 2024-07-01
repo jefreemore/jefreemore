@@ -23,7 +23,8 @@
     <!-- END-CONTENT -->
     <footer id="github-endbar">
         <h3 class="sub-title">Outras redes sociais:</h3>
-        [![Blog](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)]()
+        <img rel="Pinterest" href="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+        [![Blog]()]()
         [![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
     </footer>
 </body>
