@@ -1,16 +1,19 @@
 <!-- WELLCOME -->
 <body id="github-portfolio">
+    <!-- MENU -->
     <header id="github-menu">
-        <h1>😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
+        <h1 class="main-title">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
     </header>
-    <main>
-        <p>
+    <!-- MAIN-CONTENT -->
+    <main id="github-content">
+        <p class="brief-description">
             Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.
             Desde meus 14 anos, gosto de programar e montar meus próprios projetos.
             Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
         </p>
     </main>
-    <footer>
+    <!-- END-CONTENT -->
+    <footer id="github-endbar">
         
     </footer>
 </body>
