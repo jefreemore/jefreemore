@@ -1,10 +1,7 @@
-<!-- WELLCOME -->
-<body id="github-portfolio" style="display: flex; flex-direction: column;">
-    <!-- MENU -->
-    <header id="github-menu"">
-        <h1 class="title" style="font-size: 10px;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
-    </header>
-    <!-- MAIN-CONTENT -->
+<!-- TITLE -->
+<h1 id="github-title" style="font-size: 10px;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
+
+<!-- MAIN-CONTENT -->
     <main id="github-content">
         <section class="section-1">
             <p class="gh-description">
@@ -36,11 +33,11 @@
             [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
             [![Blog](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)]()
         </section>
-    </main>
-    <!-- END-CONTENT -->
-    <footer id="github-endbar">
-        <h3 class="sub-title">Outras redes sociais:</h3>
-        <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
-        <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-    </footer>
-</body>
+</main>
+
+<!-- END-CONTENT -->
+<footer id="github-endbar">
+    <h3 class="sub-title">Outras redes sociais:</h3>
+    <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
+    <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</footer>
