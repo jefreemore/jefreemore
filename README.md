@@ -5,9 +5,7 @@
             body { background-color: red; }
         </style>
     </head>
-</html>
-
-<!-- WELLCOME -->
+    <!-- WELLCOME -->
 <body id="github-portfolio">
     <!-- MENU -->
     <header id="github-menu">
@@ -53,3 +51,6 @@
         <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </footer>
 </body>
+</html>
+
+
