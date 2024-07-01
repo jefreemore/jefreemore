@@ -1,7 +1,7 @@
 ## 😄Olá!, sejá muito bem vindo ao meu portfolio!
+##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!. Desde meus 14 anos, gosto de programar e montar meus próprios projetos.
 ![JefersonFerrettiMoreira GitHub stats1](https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent)
 ![JefersonFerrettiMoreira GitHub stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green)
-
 
 #### Tenho conhecimento:
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
