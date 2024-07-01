@@ -1,15 +1,11 @@
 <!DOCYTYPE html5>
 <html lang="pt-br">
-    <head>
-        <style type="text/css">
-            body { background-color: red; }
-        </style>
-    </head>
+    <head></head>
     <!-- WELLCOME -->
     <body id="github-portfolio">
         <!-- MENU -->
         <header id="github-menu">
-            <h1 class="title">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
+            <h1 class="title" style="background-color: red;">😄Olá!, sejá muito bem vindo ao meu portfolio!</h1>
         </header>
         <!-- MAIN-CONTENT -->
         <main id="github-content">
