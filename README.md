@@ -1,7 +1,7 @@
 <!DOCYTYPE html5>
 <html lang="pt-br">
     <head>
-        <style>
+        <style type="text/css">
             body { background-color: red; }
         </style>
     </head>
