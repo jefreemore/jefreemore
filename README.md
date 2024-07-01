@@ -2,9 +2,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
-### Tenho conhecimento:
+#### Tenho conhecimento:
 
-### Tenho um breve conhecimento:
+#### Tenho um breve conhecimento:
 
 #### Como posso realiza contato?
 [![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
