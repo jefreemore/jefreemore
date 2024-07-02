@@ -20,7 +20,6 @@
 
 <!-- GITHUB-STATS -->
 <section id="stats-section">
-    <strong class="subtitle">Status:</strong>
     <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent">
     <img rel="Stats-2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green">
 </section>
