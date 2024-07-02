@@ -5,6 +5,7 @@
 ##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
 
 <!-- CONTACTS -->
+<br/>
 <strong class="subtitle">Como posso realiza contato?</strong>
 <div id="contacts">
     <img rel="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
