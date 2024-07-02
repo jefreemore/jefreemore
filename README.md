@@ -1,5 +1,5 @@
 <!-- TITLE -->
-## Olá!, sejá muito bem vindo ao meu portfolio! 👋
+### Olá!, sejá muito bem vindo ao meu portfolio! 👋
 
 <!-- DESCRIPTION -->
 ##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
