@@ -4,7 +4,9 @@
 <!-- DESCRIPTION -->
 ##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar! [more](https://mail.google.com)
 
-**CODE: CONTACTS**
+<!-- INFO -->
+**`More information about GitHub profile! 001101001110`**
+
 <!-- CONTACTS -->
 <br/>
 <strong class="subtitle">Como posso realiza contato?</strong>
@@ -15,13 +17,13 @@
     <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
         <img alt="WhatsApp" title="Esse é meu WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+    <a href="https://www.facebook.com/jeferson.ferretti.3/">
         <img alt="Facebook" title="Esse é meu Facebook!" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+    <a href="https://www.instagram.com/jeferson_ferretti_moreira/">
         <img alt="Instagram" title="Esse é meu Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
-    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+    <a href="https://www.linkedin.com/in/jeferson-ferretti-moreira-096521214/">
         <img alt="LinkedIn" title="Esse é meu LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
