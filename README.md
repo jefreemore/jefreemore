@@ -2,10 +2,13 @@
 ### Olá!, sejá muito bem vindo ao meu portfolio! 👋
 
 <!-- DESCRIPTION -->
-<p id="description">Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 anos, venho mergulhando na programação e criando meus próprios projetos. Nesse caminho, descobri meu interesse por servidores e banco de dados, além de uma paixão por robótica e o uso de Raspberry Pi.</p>
+<p id="description">Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 anos, venho mergulhando na programação e criando meus próprios projetos. Nesse caminho, descobri meu interesse por servidores e banco de dados, além de uma paixão por robótica e o uso de Raspberry Pi. Minha mente está sempre cheia de ideias criativas e inovadoras, sempre buscando estar à frente e transformar essas ideias em algo concreto. O que me motiva é o desafio de ultrapassar limites e criar soluções que realmente façam a diferença. Sinto que minha mente está sempre em movimento, cheia de novas possibilidades, e estou determinado a torná-las reais.</p>
+
 <details>
-    <summary>Exibir mais</summary>
-    <p>Minha mente está sempre cheia de ideias criativas e inovadoras, sempre buscando estar à frente e transformar essas ideias em algo concreto. O que me motiva é o desafio de ultrapassar limites e criar soluções que realmente façam a diferença. Sinto que minha mente está sempre em movimento, cheia de novas possibilidades, e estou determinado a torná-las reais.</p>
+    <summary>Gosto muito! ✅</summary>
+    <p>1 - Arquitetura de Computadores</p><br>
+    <p>2 - Servidor, Banco de dados</p><br>
+    <p>3 - Robotica, Raspberry PI</p>
 </details>
 
 <!-- INFO -->
