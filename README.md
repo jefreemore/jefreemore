@@ -2,10 +2,14 @@
 ### Olá!, sejá muito bem vindo ao meu portfolio! 👋
 
 <!-- DESCRIPTION -->
-##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar! [more](https://mail.google.com)
+<p id="description">Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 anos, venho mergulhando na programação e criando meus próprios projetos. Nesse caminho, descobri meu interesse por servidores e banco de dados, além de uma paixão por robótica e o uso de Raspberry Pi.</p>
+<details>
+    <summary>Exibir mais</summary>
+    <p>Minha mente está sempre cheia de ideias criativas e inovadoras, sempre buscando estar à frente e transformar essas ideias em algo concreto. O que me motiva é o desafio de ultrapassar limites e criar soluções que realmente façam a diferença. Sinto que minha mente está sempre em movimento, cheia de novas possibilidades, e estou determinado a torná-las reais.</p>
+</details>
 
 <!-- INFO -->
-**`More information about GitHub profile! 001101001110`**
+**`More information about GitHub profile! 01001000 01100001 01100011 01101011 `**
 
 <!-- CONTACTS -->
 <br/>
