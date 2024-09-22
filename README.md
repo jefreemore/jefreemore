@@ -2,18 +2,29 @@
 ### Olá!, sejá muito bem vindo ao meu portfolio! 👋
 
 <!-- DESCRIPTION -->
-##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar!
+##### Sou um cara muitíssimo apaixonado pelo ramo de tecnologia, ciência e inovação!.<br/>Desde meus 14 anos, gosto de programar e montar meus próprios projetos.<br/>Sou uma pessoa com uma mente brilhante, e que tem sempre uma ideia incrivel para projetar! [more](https://mail.google.com)
 
+**CODE: CONTACTS**
 <!-- CONTACTS -->
 <br/>
 <strong class="subtitle">Como posso realiza contato?</strong>
-<div id="contacts">
-    <img rel="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-    <img rel="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://api.whatsapp.com/send?phone=5519989437565&text=Ol%C3%A1!%2C%20voc%C3%AA%20que%20veio%20pelo%20GitHub%2C%20esse%20%C3%A9%20meu%20contato%20oficial%20do%20WhatsApp!">
-    <img rel="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    <img rel="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    <img rel="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</div>
+<p id="contacts" aling="left">
+    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new">
+        <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+        <img alt="WhatsApp" title="Esse é meu WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+        <img alt="Facebook" title="Esse é meu Facebook!" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+        <img alt="Instagram" title="Esse é meu Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!">
+        <img alt="LinkedIn" title="Esse é meu LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</p>
 
 <!-- GITHUB-STATS -->
 <br/>
