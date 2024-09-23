@@ -5,7 +5,7 @@
 <p id="description">Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 anos, venho mergulhando na programação e criando meus próprios projetos. Nesse caminho, descobri meu interesse por <a href="https://pt.wikipedia.org/wiki/Servidor">servidores</a> e banco de dados, além de uma paixão por robótica e o uso de <a href="https://www.raspberrypi.com/documentation/">Raspberry Pi</a>. Minha mente está sempre cheia de ideias criativas e inovadoras, sempre buscando estar à frente e transformar essas ideias em algo concreto. O que me motiva é o desafio de ultrapassar limites e criar soluções que realmente façam a diferença. Sinto que minha mente está sempre em movimento, cheia de novas possibilidades, e estou determinado a torná-las reais.</p>
 
 <details>
-    <summary>Gosto muito! ✅</summary>
+    <summary>Com o que quero trabalhar 💼</summary>
     <ul>
         <li>
             <p>Sistema, Arquitetura de Computadores.</p>
@@ -18,6 +18,27 @@
         </li>
         <li>
             <p>IA, Automação.</p>
+        </li>
+    </ul>
+</details>
+
+<details>
+    <summary>Linguagens que gosto 💻</summary>
+    <ul>
+        <li>
+            <p><strong>Baixo nível:</strong> Assembly.</p>
+        </li>
+        <li>
+            <p><strong>Rápida:</strong> C/C++</p>
+        </li>
+        <li>
+            <p><strong>Simples e poderosa:</strong> Python</p>
+        </li>
+        <li>
+            <p><strong>Para navegadores:</strong> HTML, CSS, JS</p>
+        </li>
+        <li>
+            <p><strong>Banco de dados:</strong> PHP</p>
         </li>
     </ul>
 </details>
