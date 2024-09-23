@@ -6,54 +6,54 @@
 
 ---
 
-<h4>Listas do portfolio! ✨</h4>
-<details>
-    <summary>Com o que quero trabalhar 💼</summary>
-    <ul>
-        <li>
-            <p>Sistema, Arquitetura de Computadores.</p>
-        </li>
-        <li>
-            <p>Servidor, Banco de dados.</p>
-        </li>
-        <li>
-            <p>Robotica, Raspberry PI.</p>
-        </li>
-        <li>
-            <p>IA, Automação.</p>
-        </li>
-    </ul>
-</details>
-
-<details>
-    <summary>Linguagens que gosto 💻</summary>
-    <ul>
-        <li>
-            <p><strong>Baixo nível:</strong> Assembly.</p>
-        </li>
-        <li>
-            <p><strong>Sistema:</strong> C/C++</p>
-        </li>
-        <li>
-            <p><strong>Alto nível:</strong> Python</p>
-        </li>
-        <li>
-            <p><strong>Navegadores:</strong> HTML, CSS, JS</p>
-        </li>
-        <li>
-            <p><strong>Banco de dados:</strong> PHP</p>
-        </li>
-        <li>
-            <p><strong>CMD Windows:</strong> Batch</p>
-        </li>
-    </ul>
-</details>
-
 <!-- INFO -->
-<details>
-    <summary>Bit ⚙</summary>
-    <h5>0101011001101111011000111110101000100000111010010010000001100011011101010111001001101001011011110111001101101111001000000110100001100101011010010110111000100001</h5>
-</details>
+<h4>Listas do portfolio! ✨</h4>
+<div style="display: flex; flex-direction: row;">
+    <details>
+        <summary>Com o que quero trabalhar 💼</summary>
+        <ul>
+            <li>
+                <p>Sistema, Arquitetura de Computadores.</p>
+            </li>
+            <li>
+                <p>Servidor, Banco de dados.</p>
+            </li>
+            <li>
+                <p>Robotica, Raspberry PI.</p>
+            </li>
+            <li>
+                <p>IA, Automação.</p>
+            </li>
+        </ul>
+    </details>
+    <details>
+        <summary>Linguagens que gosto 💻</summary>
+        <ul>
+            <li>
+                <p><strong>Baixo nível:</strong> Assembly.</p>
+            </li>
+            <li>
+                <p><strong>Sistema:</strong> C/C++</p>
+            </li>
+            <li>
+                <p><strong>Alto nível:</strong> Python</p>
+            </li>
+            <li>
+                <p><strong>Navegadores:</strong> HTML, CSS, JS</p>
+            </li>
+            <li>
+                <p><strong>Banco de dados:</strong> PHP</p>
+            </li>
+            <li>
+                <p><strong>CMD Windows:</strong> Batch</p>
+            </li>
+        </ul>
+    </details>
+    <details>
+        <summary>Bit ⚙</summary>
+        <h5>0101011001101111011000111110101000100000111010010010000001100011011101010111001001101001011011110111001101101111001000000110100001100101011010010110111000100001</h5>
+    </details>
+</div>
 
 ---
 
