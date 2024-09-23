@@ -58,15 +58,17 @@
 ---
 
 <!-- GITHUB-STATS -->
-<br/>
+<h4 align="center">Meu Status no GitHub!</h4>
 <section align="center">
-    <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent"><br>
+    <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent">
     <img rel="Stats-2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green">
 </section>
 
+---
+
 <!-- LINGUAGE-KNOW1 -->
-<br/>
-<h4 align="center">Tenho conhecimento!</h4>
+<h4 align="center">Linguagens de programação!</h4>
+<h5 align="center">Tenho conhecimento!</h5>
 <section align="center">
     <!-- SISTEM -->
     <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
@@ -81,8 +83,7 @@
 </section>
 
 <!-- LINGUAGE-KNOW2 -->
-<br/>
-<h4 align="center">Tenho um breve conhecimento!</h4>
+<h5 align="center">Tenho um breve conhecimento!</h5>
 <section align="center">
     <!-- SISTEM -->
     <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
@@ -99,7 +100,8 @@
 ---
 
 <!-- CONTACTS -->
-<h4 align="center">Como posso realiza contato?</h4>
+<h4 align="center">Minhas redes sociais!</h4>
+<h5 align="center">Como posso realiza contato?</h5>
 <div align="center">
     <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new" target="_blank">
         <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -119,8 +121,7 @@
 </div>
 
 <!-- SOCIAL-MEDIA-OTHES -->
-<br/>
-<h4 align="center">Outras redes sociais!</h4>
+<h5 align="center">Outras redes sociais!</h5>
 <section align="center">
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
