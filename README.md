@@ -8,7 +8,7 @@
 
 <!-- INFO -->
 <h4>Listas do portfolio! ✨</h4>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex;">
     <details>
         <summary>Com o que quero trabalhar 💼</summary>
         <ul>
@@ -88,12 +88,24 @@
 <!-- LINGUAGE-KNOW1 -->
 <br/>
 <strong class="subtitle">Tenho conhecimento:</strong>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,assembly,flutter&perline=3" />
+  </a>
+</div>
 <section id="know-section" style="display: flex; flex-direction: column">
-    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img rel="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img rel="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+    <!-- SISTEM -->
+    <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="Python" src="https://img.shields.io/badge/Python-D5D178?style=for-the-badge&logo=none&logoColor=white">
+    
+    <img rel="PHP" src="https://img.shields.io/badge/PHP-A0A0FF?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=none&logoColor=white">
+    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=none&logoColor=F7DF1E">
+    <img rel="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=none&logoColor=61DAFB">
+    <img rel="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=none&logoColor=white">
 </section>
 
 <!-- LINGUAGE-KNOW2 -->
