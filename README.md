@@ -7,8 +7,8 @@
 ---
 
 <!-- INFO -->
-<h4>Listas do portfolio! ✨</h4>
-<div style="display: flex;">
+<h4 align="center">Listas do portfolio! ✨</h4>
+<div align="center">
     <details>
         <summary>Com o que quero trabalhar 💼</summary>
         <ul>
@@ -57,10 +57,50 @@
 
 ---
 
-<!-- CONTACTS -->
+<!-- GITHUB-STATS -->
 <br/>
-<strong class="subtitle">Como posso realiza contato?</strong>
-<div>
+<section align="center">
+    <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent"><br>
+    <img rel="Stats-2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green">
+</section>
+
+<!-- LINGUAGE-KNOW1 -->
+<br/>
+<h4 align="center">Tenho conhecimento!</h4>
+<section align="center">
+    <!-- SISTEM -->
+    <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
+    <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge">
+    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge">
+    <img rel="Python" src="https://img.shields.io/badge/Python-FFEF88?style=for-the-badge">
+    <!-- WEB -->
+    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-FF865B?style=for-the-badge">
+    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-5B97FF?style=for-the-badge">
+    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD080?style=for-the-badge">
+    <img rel="PHP" src="https://img.shields.io/badge/PHP-A0A0FF?style=for-the-badge">
+</section>
+
+<!-- LINGUAGE-KNOW2 -->
+<br/>
+<h4 align="center">Tenho um breve conhecimento!</h4>
+<section align="center">
+    <!-- SISTEM -->
+    <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
+    <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge">
+    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge">
+    <img rel="Python" src="https://img.shields.io/badge/Python-FFEF88?style=for-the-badge">
+    <!-- WEB -->
+    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-FF865B?style=for-the-badge">
+    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-5B97FF?style=for-the-badge">
+    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD080?style=for-the-badge">
+    <img rel="PHP" src="https://img.shields.io/badge/PHP-A0A0FF?style=for-the-badge">
+</section>
+
+---
+
+<!-- CONTACTS -->
+<h4 align="center">Como posso realiza contato?</h4>
+<div align="center">
     <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new" target="_blank">
         <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
@@ -78,48 +118,10 @@
     </a>
 </div>
 
-<!-- GITHUB-STATS -->
-<br/>
-<section id="stats-section">
-    <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent">
-    <img rel="Stats-2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green">
-</section>
-
-<!-- LINGUAGE-KNOW1 -->
-<br/>
-<strong class="subtitle">Tenho conhecimento:</strong>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,assembly,flutter&perline=3" />
-  </a>
-</div>
-<section id="know-section" style="display: flex; flex-direction: column">
-    <!-- SISTEM -->
-    <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="Python" src="https://img.shields.io/badge/Python-D5D178?style=for-the-badge&logo=none&logoColor=white">
-    
-    <img rel="PHP" src="https://img.shields.io/badge/PHP-A0A0FF?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=none&logoColor=white">
-    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=none&logoColor=F7DF1E">
-    <img rel="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=none&logoColor=61DAFB">
-    <img rel="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=none&logoColor=white">
-</section>
-
-<!-- LINGUAGE-KNOW2 -->
-<br/>
-<strong class="subtitle">Tenho um breve conhecimento:</strong>
-<section id="know-section">
-    <img rel="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-    <img rel="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
-</section>
-
 <!-- SOCIAL-MEDIA-OTHES -->
 <br/>
-<strong class="subtitle">Outras redes sociais:</strong>
-<section id="social-media-section">
+<h4 align="center">Outras redes sociais!</h4>
+<section align="center">
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </section>
