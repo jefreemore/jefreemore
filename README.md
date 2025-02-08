@@ -7,7 +7,7 @@
 ---
 
 <!-- INFO -->
-<h4 align="center">Listas do portfolio! ✨</h4>
+<h4 align="center">Listas do portfólio! ✨</h4>
 <div align="center">
     <details>
         <summary>Com o que quero trabalhar 💼</summary>
