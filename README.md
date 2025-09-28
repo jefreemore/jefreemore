@@ -42,7 +42,7 @@
 ---
 
 <!-- LINGUAGE-KNOW1 -->
-<h4 align="center">Linguagens de programação!</h4>
+<h4 align="center">Programming languages!</h4>
 <h5 align="center">Tenho conhecimento!</h5>
 <section align="center">
     <!-- SISTEM -->
@@ -71,7 +71,7 @@
 ---
 
 <!-- CONTACTS -->
-<h4 align="center">Redes sociais!</h4>
+<h4 align="center">Social networks!</h4>
 <div align="center">
     <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!" target="_blank">
         <img alt="WhatsApp" title="Esse é meu WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
