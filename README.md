@@ -14,13 +14,13 @@
         <summary>Com o que quero trabalhar 💼</summary>
         <ul>
             <li>
-                <p>Sistema, Arquitetura de Computadores.</p>
+                <p>Software, Desenvolvimento de Sistema.</p>
             </li>
             <li>
                 <p>Servidor, Banco de dados.</p>
             </li>
             <li>
-                <p>IA, Automação, Comunicação.</p>
+                <p>IA, Automação, Sistema IoT.</p>
             </li>
         </ul>
     </details>
