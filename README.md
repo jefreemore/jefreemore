@@ -95,7 +95,6 @@
 
 <!-- CONTACTS -->
 <h4 align="center">Minhas redes sociais!</h4>
-<h5 align="center">Como posso realiza contato?</h5>
 <div align="center">
     <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new" target="_blank">
         <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
