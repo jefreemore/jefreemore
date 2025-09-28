@@ -17,10 +17,10 @@
                 <p>Software, Desenvolvimento de Sistema.</p>
             </li>
             <li>
-                <p>Servidor, Banco de dados.</p>
+                <p>Server, Banco de dados.</p>
             </li>
             <li>
-                <p>IA, Automação, Sistema IoT.</p>
+                <p>Automação, Sistema IoT, IA.</p>
             </li>
         </ul>
     </details>
