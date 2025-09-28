@@ -70,18 +70,18 @@
 <section align="center">
     <!-- SISTEM -->
     <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
-    <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge">
-    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge">
-    <img rel="CSharp" src="https://img.shields.io/badge/CSharp-D583DD?style=for-the-badge">
-    <img rel="Java" src="https://img.shields.io/badge/Java-EE8352?style=for-the-badge">
-    <img rel="Python" src="https://img.shields.io/badge/Python-FFEF88?style=for-the-badge">
+    <img rel="C" src="https://img.shields.io/badge/C-626EBF?style=for-the-badge">
+    <img rel="Cpp" src="https://img.shields.io/badge/Cpp-679DD6?style=for-the-badge">
+    <img rel="CSharp" src="https://img.shields.io/badge/CSharp-A67ADC?style=for-the-badge">
+    <img rel="Java" src="https://img.shields.io/badge/Java-E25040?style=for-the-badge">
+    <img rel="Python" src="https://img.shields.io/badge/Python-FFD347?style=for-the-badge">
     <img rel="Batch" src="https://img.shields.io/badge/Batch-2C2C2C?style=for-the-badge">
     <!-- WEB -->
-    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-FF865B?style=for-the-badge">
-    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-5B97FF?style=for-the-badge">
-    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD080?style=for-the-badge">
-    <img rel="SQL" src="https://img.shields.io/badge/SQL-A0A0FF?style=for-the-badge">
-    <img rel="MySQL" src="https://img.shields.io/badge/MySQL-A0A0FF?style=for-the-badge">
+    <img rel="HTML5" src="https://img.shields.io/badge/HTML5-DF4026?style=for-the-badge">
+    <img rel="CSS3" src="https://img.shields.io/badge/CSS3-0864AD?style=for-the-badge">
+    <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge">
+    <img rel="SQL" src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge">
+    <img rel="MySQL" src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge">
 </section>
 
 <!-- LINGUAGE-KNOW2 -->
