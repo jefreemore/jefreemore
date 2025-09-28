@@ -20,9 +20,6 @@
                 <p>Servidor, Banco de dados.</p>
             </li>
             <li>
-                <p>Robotica, Raspberry PI.</p>
-            </li>
-            <li>
                 <p>IA, Automação.</p>
             </li>
         </ul>
