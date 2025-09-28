@@ -12,9 +12,9 @@
 
 <h4 align="center">Áreas de Interesse</h4>
 <p align="center">
-    💻 Desenvolvimento de Software e Sistemas •  
-    🗄️ Servidores & Bancos de Dados •  
-    🤖 Inteligência Artificial, Automação e IoT
+    <p>💻 Desenvolvimento de Software e Sistemas</p>
+    <p>🗄️ Servidores & Bancos de Dados</p>
+    <p>🤖 Inteligência Artificial, Automação e IoT</p>
 </p>
 
 ---
