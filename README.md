@@ -31,7 +31,7 @@
                 <p><strong>Baixo nível:</strong> Assembly.</p>
             </li>
             <li>
-                <p><strong>Sistema:</strong> C/C++</p>
+                <p><strong>Sistema:</strong> C/C++, C#</p>
             </li>
             <li>
                 <p><strong>Alto nível:</strong> Python</p>
@@ -40,7 +40,7 @@
                 <p><strong>Navegadores:</strong> HTML, CSS, JS</p>
             </li>
             <li>
-                <p><strong>Banco de dados:</strong> PHP</p>
+                <p><strong>Banco de dados:</strong> SQLite, MySQL</p>
             </li>
             <li>
                 <p><strong>CMD Windows:</strong> Batch</p>
