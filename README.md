@@ -33,7 +33,7 @@
 ---
 
 <!-- GITHUB-STATS -->
-<h4 align="center">Meu Status no GitHub!</h4>
+<h4 align="center">My GitHub Status!</h4>
 <section align="center">
     <img rel="Stats-1" src="https://github-readme-stats.vercel.app/api?username=JefersonFerrettiMoreira&show_icons=true&theme=transparent">
     <img rel="Stats-2" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonFerrettiMoreira&theme=blue-green">
