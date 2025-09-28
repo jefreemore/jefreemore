@@ -58,7 +58,7 @@
 </section>
 
 <!-- LINGUAGE-KNOW2 -->
-<h5 align="center">Tenho um breve conhecimento!</h5>
+<h5 align="center">Breve conhecimento!</h5>
 <section align="center">
     <!-- SISTEM -->
     <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
@@ -71,7 +71,7 @@
 ---
 
 <!-- CONTACTS -->
-<h4 align="center">Minhas redes sociais!</h4>
+<h4 align="center">Redes sociais!</h4>
 <div align="center">
     <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!" target="_blank">
         <img alt="WhatsApp" title="Esse é meu WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
