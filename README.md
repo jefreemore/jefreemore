@@ -72,7 +72,10 @@
     <img rel="Assembly" src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge">
     <img rel="C" src="https://img.shields.io/badge/C-709EFF?style=for-the-badge">
     <img rel="Cpp" src="https://img.shields.io/badge/Cpp-526DA5?style=for-the-badge">
+    <img rel="CSharp" src="https://img.shields.io/badge/CSharp-D583DD?style=for-the-badge">
+    <img rel="CSharp" src="https://img.shields.io/badge/Java-EE8352?style=for-the-badge">
     <img rel="Python" src="https://img.shields.io/badge/Python-FFEF88?style=for-the-badge">
+    <img rel="Python" src="https://img.shields.io/badge/Batch-2C2C2C?style=for-the-badge">
     <!-- WEB -->
     <img rel="HTML5" src="https://img.shields.io/badge/HTML5-FF865B?style=for-the-badge">
     <img rel="CSS3" src="https://img.shields.io/badge/CSS3-5B97FF?style=for-the-badge">
