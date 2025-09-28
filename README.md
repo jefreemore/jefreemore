@@ -1,5 +1,5 @@
 <!-- TITLE -->
-<h3 align="center">Olá!, sejá muito bem vindo ao meu portfólio! 👋</h3>
+<h3 align="center">Welcome to my portfolio! 👋</h3>
 
 <!-- DESCRIPTION -->
 <p align="center">Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 anos, venho mergulhando na programação e criando meus próprios projetos. Nesse caminho, descobri meu interesse por <a href="https://pt.wikipedia.org/wiki/Servidor">Servidores</a> e banco de dados, além de uma paixão por <a href="https://pt.wikipedia.org/wiki/Rob%C3%B3tica">Robótica</a> e o uso de <a href="https://www.raspberrypi.com/documentation/">Raspberry Pi</a>. Também gosto de entender a <a href="https://pt.wikipedia.org/wiki/Estrutura">Estrutura</a> de baixo nível dos sistemas, explorando como tudo funciona internamente. Minha mente está sempre cheia de ideias criativas e inovadoras, sempre buscando estar à frente e transformar essas ideias em algo concreto. O que me motiva é o desafio de ultrapassar limites e criar soluções que realmente façam a diferença. Sinto que minha mente está sempre em movimento, cheia de novas possibilidades, e estou determinado a torná-las reais.</p>
