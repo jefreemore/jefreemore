@@ -9,20 +9,15 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 ---
 
 <!-- INFO -->
-
 <h4 align="center">Áreas de Interesse</h4>
-<p >
-    <p align="center">💻 Desenvolvimento de Software e Sistemas</p>
-    <p align="center">🗄️ Servidores & Bancos de Dados</p>
-    <p align="center">🤖 Inteligência Artificial, Automação e IoT</p>
-</p>
+<p align="center">💻 Desenvolvimento de Software e Sistemas</p>
+<p align="center">🗄️ Servidores & Bancos de Dados</p>
+<p align="center">🤖 Inteligência Artificial, Automação e IoT</p>
 
 ---
 
 <!-- LINGUAGENS -->
-
 <h4 align="center">Linguagens</h4>
-
 <p align="center">Tenho conhecimento:</p>
 <p align="center">
     <img src="https://img.shields.io/badge/C-626EBF?style=for-the-badge" />
@@ -34,7 +29,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge" />
     <img src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge" />
 </p>
-
 <p align="center">Breve conhecimento:</p>
 <p align="center">
     <img src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge" />
@@ -46,7 +40,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 ---
 
 <!-- CONTACTS -->
-
 <h4 align="center">Contato</h4>
 <p align="center">
     <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20GitHub!" target="_blank">
@@ -63,7 +56,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 ---
 
 <!-- GITHUB-STATS -->
-
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight&locale=pt-br" />
