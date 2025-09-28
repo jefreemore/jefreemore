@@ -31,7 +31,7 @@
                 <p><strong>Baixo nível:</strong> Assembly.</p>
             </li>
             <li>
-                <p><strong>Sistema:</strong> C/C++, C#</p>
+                <p><strong>Sistema:</strong> C/C++, Java e C#</p>
             </li>
             <li>
                 <p><strong>Alto nível:</strong> Python</p>
