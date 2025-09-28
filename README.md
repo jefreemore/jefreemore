@@ -112,7 +112,7 @@
     <a href="https://www.facebook.com/jeferson.ferretti.3/" target="_blank">
         <img alt="Facebook" title="Esse é meu Facebook!" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/jeferson_ferretti_moreira/" target="_blank">
+    <a href="https://www.instagram.com/jefreemore_fm/" target="_blank">
         <img alt="Instagram" title="Esse é meu Instagram!" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/jeferson-ferretti-moreira-096521214/" target="_blank">
