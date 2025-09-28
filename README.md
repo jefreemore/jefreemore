@@ -31,22 +31,11 @@
 
 ---
 
-<!-- GITHUB-STATS -->
-<h4 align="center">My GitHub Status!</h4>
-<section align="center">
-    <p>
-        <img align="left" rel="Stats-1" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-        <img align="left" rel="Stats-2" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefreemore&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </p>
-</section>
-
----
-
 <!-- LINGUAGE-KNOW1 -->
 <h4 align="center">Programming languages!</h4>
 <h5 align="center">Tenho conhecimento!</h5>
 <section align="center">
-    <p></br>
+    <p>
         <!-- SISTEM -->
         <img rel="C" src="https://img.shields.io/badge/C-626EBF?style=for-the-badge">
         <img rel="Cpp" src="https://img.shields.io/badge/Cpp-679DD6?style=for-the-badge">
@@ -94,3 +83,14 @@
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
 </div>
+
+---
+
+<!-- GITHUB-STATS -->
+<h4 align="center">My GitHub Status!</h4>
+<section align="center">
+    <p>
+        <img align="left" rel="Stats-1" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+        <img align="left" rel="Stats-2" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefreemore&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+    </p>
+</section>
