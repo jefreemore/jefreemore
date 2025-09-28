@@ -20,7 +20,7 @@
                 <p>Servidor, Banco de dados.</p>
             </li>
             <li>
-                <p>IA, Automação.</p>
+                <p>IA, Automação, Comunicação.</p>
             </li>
         </ul>
     </details>
