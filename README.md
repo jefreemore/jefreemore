@@ -96,9 +96,6 @@
 <!-- CONTACTS -->
 <h4 align="center">Minhas redes sociais!</h4>
 <div align="center">
-    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new" target="_blank">
-        <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
     <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20link%20do%20GitHub!%20%F0%9F%98%80%0APrazem%20em%20conhec%C3%AA-lo%20Jeferson!" target="_blank">
         <img alt="WhatsApp" title="Esse é meu WhatsApp!" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     </a>
@@ -110,7 +107,10 @@
     </a>
     <a href="https://www.linkedin.com/in/jeferson-ferretti-moreira-096521214/" target="_blank">
         <img alt="LinkedIn" title="Esse é meu LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a></br>
+    <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#search/in%3Asent+jeferson.ferretti2004%40gmail.com?compose=new" target="_blank">
+        <img alt="Gmail" title="Esse é meu Gmail!" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+    <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
 </div>
