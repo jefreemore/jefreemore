@@ -31,8 +31,9 @@
 
 ---
 
-<!-- LINGUAGE-KNOW1 -->
+
 <p>
+    <!-- LINGUAGE-KNOW1 -->
     <h4 align="center">Programming languages!</h4>
     <h5 align="center">Tenho conhecimento!</h5>
     <section align="center">
@@ -49,8 +50,6 @@
             <img rel="MySQL" src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge">
         </p>
     </section>
-    
-    
     <!-- LINGUAGE-KNOW2 -->
     <h5 align="center">Breve conhecimento!</h5>
     <section align="center">
