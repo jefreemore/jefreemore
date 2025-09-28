@@ -14,8 +14,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 <p align="center">🗄️ Servidores & Bancos de Dados</p>
 <p align="center">🤖 Inteligência Artificial, Automação e IoT</p>
 
----
-
 <!-- LINGUAGENS -->
 <h4 align="center">Linguagens</h4>
 <p align="center">Tenho conhecimento:</p>
@@ -35,22 +33,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img src="https://img.shields.io/badge/CSharp-A67ADC?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Python-FFD347?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Batch-2C2C2C?style=for-the-badge" />
-</p>
-
----
-
-<!-- CONTACTS -->
-<h4 align="center">Contato</h4>
-<p align="center">
-    <a href="https://api.whatsapp.com/send?phone=5519989437565&text=Eu%20vim%20pelo%20GitHub!" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/jeferson-ferretti-moreira-096521214/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:jeferson.ferretti2004@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
 </p>
 
 ---
