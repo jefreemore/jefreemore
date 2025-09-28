@@ -11,7 +11,7 @@
 <h4 align="center">Portfolio Lists! ✨</h4>
 <div align="center">
     <details>
-        <summary>Com o que quero trabalhar 💼</summary>
+        <summary>Interesse em trabalhar 💼</summary>
         <ul>
             <li>
                 <p>Software, Desenvolvimento de Sistema.</p>
@@ -20,7 +20,7 @@
                 <p>Server, Banco de dados.</p>
             </li>
             <li>
-                <p>Automação, Sistema IoT, IA.</p>
+                <p>IA, Automação, Sistema IoT.</p>
             </li>
         </ul>
     </details>
