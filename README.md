@@ -112,11 +112,6 @@
     <a href="https://www.linkedin.com/in/jeferson-ferretti-moreira-096521214/" target="_blank">
         <img alt="LinkedIn" title="Esse é meu LinkedIn!" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</div>
-
-<!-- SOCIAL-MEDIA-OTHES -->
-<h5 align="center">Outras redes sociais!</h5>
-<section align="center">
     <img rel="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
     <img rel="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-</section>
+</div>
