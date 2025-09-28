@@ -37,18 +37,16 @@
     <h4 align="center">Programming languages!</h4>
     <h5 align="center">Tenho conhecimento!</h5>
     <section align="center">
-        <p>
-            <!-- SISTEM -->
-            <img rel="C" src="https://img.shields.io/badge/C-626EBF?style=for-the-badge">
-            <img rel="Cpp" src="https://img.shields.io/badge/Cpp-679DD6?style=for-the-badge">
-            <img rel="Java" src="https://img.shields.io/badge/Java-E25040?style=for-the-badge"></br>
-            <!-- WEB -->
-            <img rel="HTML5" src="https://img.shields.io/badge/HTML5-DF4026?style=for-the-badge">
-            <img rel="CSS3" src="https://img.shields.io/badge/CSS3-0864AD?style=for-the-badge">
-            <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge">
-            <img rel="SQL" src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge">
-            <img rel="MySQL" src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge">
-        </p>
+        <!-- SISTEM -->
+        <img rel="C" src="https://img.shields.io/badge/C-626EBF?style=for-the-badge">
+        <img rel="Cpp" src="https://img.shields.io/badge/Cpp-679DD6?style=for-the-badge">
+        <img rel="Java" src="https://img.shields.io/badge/Java-E25040?style=for-the-badge"></br>
+        <!-- WEB -->
+        <img rel="HTML5" src="https://img.shields.io/badge/HTML5-DF4026?style=for-the-badge">
+        <img rel="CSS3" src="https://img.shields.io/badge/CSS3-0864AD?style=for-the-badge">
+        <img rel="JavaScript" src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge">
+        <img rel="SQL" src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge">
+        <img rel="MySQL" src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge">
     </section>
     <!-- LINGUAGE-KNOW2 -->
     <h5 align="center">Breve conhecimento!</h5>
