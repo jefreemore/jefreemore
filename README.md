@@ -22,7 +22,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img src="https://img.shields.io/badge/CSS3-0864AD?style=for-the-badge" />
     <img src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge" />
     <img src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/MySQL-E48F08?style=for-the-badge" />
 </p>
 <p align="center">Breve conhecimento:</p>
 <p align="center">
