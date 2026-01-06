@@ -31,11 +31,10 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img src="https://img.shields.io/badge/Batch-2C2C2C?style=for-the-badge" />
 </p>
 
-<!-- GITHUB-STATS -->
+<!-- GITHUB-STATS 
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight&locale=pt-br" />
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefreemore&theme=tokyonight&layout=compact&langs_count=6" />
-</p>
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight)
+</p> -->
 
