@@ -7,33 +7,36 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 </p>  
 <!-- INFO -->
 <h4 align="center">Áreas de Interesse</h4>
-<p align="center">
-    💻 Desenvolvimento de Software<br>
-    🗄️ Servidores & Bancos de Dados<br>
-    🤖 IA, Automação & IoT</p><br>
+<p align="center">💻 Desenvolvimento de Software - 🗄️ Servidores & Bancos de Dados - 🤖 IA, Automação & IoT</p>
 
 ---
 
 <!-- LINGUAGENS -->
 <h4 align="center">Linguagens</h4>
 <p align="center">Tenho conhecimento:</p>
-<p align="center">
-    <img src="https://img.shields.io/badge/C-626EBF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/C++-679DD6?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Java-E25040?style=for-the-badge" /><br>
-    <img src="https://img.shields.io/badge/HTML5-DF4026?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CSS3-0864AD?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/JavaScript-FFDF00?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/SQL-0B2539?style=for-the-badge" />
+<p align="center" style="display: flex; flex-direction: row; gap: 10px;">
+    <img alt="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img alt="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+    <img alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
+    <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+    <br />
 </p>
 <p align="center">Breve conhecimento:</p>
 <p align="center">
-    <img src="https://img.shields.io/badge/Assembly-FFFFFF?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/CSharp-A67ADC?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Python-FFD347?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Batch-2C2C2C?style=for-the-badge" />
+    <img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />
+    <img alt="PowerShell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
+    <img alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
 </p>
-
+<!-- FRAMEWORK -->
+<h4 align="center">Framework</h4>
+<p align="center">Tenho conhecimento:</p>
+<p align="center">
+    <img alt="AngularJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+    <img alt="SpringBoot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+</p>
 <!-- GITHUB-STATS 
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
