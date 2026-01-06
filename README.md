@@ -7,7 +7,10 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 </p>  
 <!-- INFO -->
 <h4 align="center">Áreas de Interesse</h4>
-<p align="center">💻 Desenvolvimento de Software e Sistemas - 🗄️ Servidores & Bancos de Dados - 🤖 Inteligência Artificial, Automação e IoT</p>
+<p align="center">
+    💻 Desenvolvimento de Software<br>
+    🗄️ Servidores & Bancos de Dados<br>
+    🤖 IA, Automação & IoT</p><br>
 
 ---
 
