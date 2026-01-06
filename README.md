@@ -29,6 +29,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />
     <img alt="PowerShell" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" />
     <img alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" />
+    <!-- <img alt="Assembly" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/asm/asm-plain.svg" /> -->
 </p>
 <!-- FRAMEWORK -->
 <h4 align="center">Framework</h4>
