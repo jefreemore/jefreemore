@@ -37,3 +37,5 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight&locale=pt-br" />
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefreemore&theme=tokyonight&layout=compact&langs_count=6" />
 </p>
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jefreemore&show_icons=true&theme=tokyonight)
+
