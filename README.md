@@ -18,7 +18,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 <table align="center" width="100%">
   <tr width="100%">
     <!-- FRAMEWORK -->
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <h4>Framework</h4>
       <p>Tenho conhecimento:</p>
       <p>
@@ -26,7 +26,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
         <img alt="SpringBoot" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
       </p>
     </td>
-      <td align="center" valign="top" width="100%">
+      <td align="center" valign="top" width="50%">
       <!-- LINGUAGENS -->
       <h4>Linguagens</h4>
       <p>Tenho conhecimento:</p>
@@ -48,7 +48,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
       </p>
     </td>
     <!-- TOOLS -->
-    <td align="center" valign="top" width="33.3%">
+    <td align="center" valign="top" width="25%">
       <h4>Tools</h4>
       <p>Tenho conhecimento:</p>
       <p>
