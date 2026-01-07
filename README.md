@@ -126,10 +126,18 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <td width="100%">
       <h4 align="center">Data Formats & Markup</h4>
       <p align="center">
-        <img alt="JSON" title="JSON — JavaScript Object Notation" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white" />
-        <img alt="XML" title="XML — Extensible Markup Language" src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
-        <img alt="SVG" title="SVG — Scalable Vector Graphics" src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" />
-        <img alt="MD" title="MD — Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black" />
+        <a href="https://www.json.org/json-en.html" target="_blank">
+          <img alt="JSON" title="JSON — JavaScript Object Notation" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white" />
+        </a>
+        <a href="https://www.w3.org/xml/" target="_blank">
+          <img alt="XML" title="XML — Extensible Markup Language" src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
+        </a>
+        <a href="https://www.w3.org/svg/" target="_blank">
+          <img alt="SVG" title="SVG — Scalable Vector Graphics" src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" />
+        </a>
+        <a href="https://www.markdownguide.org/" target="_blank">
+          <img alt="MD" title="MD — Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black" />
+        </a>
       </p>
     </td>
   </tr>
