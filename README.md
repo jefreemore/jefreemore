@@ -121,11 +121,25 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
         </a>
       </p>
     </td>
-
+  </tr>
+</table>
+<table align="center" width="100%">
+  <tr width="100%">
+    <td width="100%">
+      <h4 align="center">Data Formats & Markup</h4>
+      <p align="center">
+        <img alt="JSON" title="JSON — JavaScript Object Notation" src="https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white" />
+        <img alt="XML" title="XML — Extensible Markup Language" src="https://img.shields.io/badge/XML-0060AC?style=for-the-badge&logo=xml&logoColor=white" />
+        <img alt="SVG" title="SVG — Scalable Vector Graphics" src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=black" />
+        <img alt="MD" title="MD — Markdown" src="https://img.shields.io/badge/Markdown-FFFFFF?style=for-the-badge&logo=markdown&logoColor=black" />
+      </p>
+    </td>
   </tr>
 </table>
 
-<h4 align="center">Operating System</h4>
+---
+
+<h4 align="center">Systems Experience</h4>
 <p align="center">
   <a href="https://www.microsoft.com/windows" target="_blank">
     <img alt="Windows" title="Microsoft Windows" width="30px"
