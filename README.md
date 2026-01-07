@@ -62,6 +62,10 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     </td>
   </tr>
 </table>
+<h4 align="center">Operating System</h4>
+<p align="center">
+  <img alt="Windows" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+</p>
 <!-- GITHUB-STATS 
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
