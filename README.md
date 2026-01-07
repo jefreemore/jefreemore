@@ -11,9 +11,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 <!-- INFO -->
 <h4 align="center">Interests</h4>
 <p align="center">
-  💻 Software Development<br>
-  🗄️ Servers & Databases<br>
-  🤖 AI, Automation & IoT
+  💻 Software Development - 🗄️ Servers & Databases - 🤖 AI, Automation & IoT
 </p>
 
 ---
