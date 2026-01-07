@@ -50,23 +50,23 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
         </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img alt="JavaScript Linguage" title="JavaScript" width="30px"
+          <img alt="JavaScript Language" title="JavaScript Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
         </a>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-          <img alt="C" title="C Linguage" width="30px"
+          <img alt="C" title="C Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
         </a>
         <a href="https://isocpp.org/" target="_blank">
-          <img alt="C++" title="C++ Linguage" width="30px"
+          <img alt="C++" title="C++ Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" />
         </a>
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-          <img alt="C#" title="C# Linguage" width="30px"
+          <img alt="C#" title="C# Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
         </a>
         <a href="https://www.oracle.com/java/" target="_blank">
-          <img alt="Java" title="Java Linguage" width="30px"
+          <img alt="Java" title="Java Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
         </a>
       </p>
