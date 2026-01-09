@@ -51,7 +51,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
           <img alt="JavaScript Language" title="JavaScript Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
         </a>
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <a href="https://www.typescriptlang.org/" target="_blank">
           <img alt="TypeScript Language" title="TypeScript Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
         </a>
