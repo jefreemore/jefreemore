@@ -51,6 +51,10 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
           <img alt="JavaScript Language" title="JavaScript Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
         </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+          <img alt="TypeScript Language" title="TypeScript Language" width="30px"
+               src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+        </a>
         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
           <img alt="C" title="C Language" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
@@ -77,10 +81,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
         <a href="https://www.sqlite.org/" target="_blank">
           <img alt="SQLite" title="SQLite Database" width="30px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-        </a>
-        <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank">
-          <img alt="PowerShell" title="Windows PowerShell" width="30px"
-               src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
         </a>
         <a href="https://www.gnu.org/software/bash/" target="_blank">
           <img alt="Bash" title="Bash Shell" width="30px"
