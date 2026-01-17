@@ -147,11 +147,20 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
 
 <h4 align="center">Systems Experience</h4>
 <p align="center">
-  <a href="https://www.microsoft.com/windows" target="_blank">
+  <a href="https://ubuntu.com/" target="_blank">
     <img alt="Windows" title="Microsoft Windows" width="30px"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </a>
+  <a href="https://www.microsoft.com/windows" target="_blank">
+    <img alt="Ubuntu" title="Linux Ubuntu" width="30px"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
+  </a>
 </p>
+
+<!-- ICONS
+https://github.com/devicons/devicon/tree/master/icons
+-->
+
 <!-- GITHUB-STATS 
 <h4 align="center">GitHub Stats</h4>
 <p align="center">
