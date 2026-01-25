@@ -152,8 +152,6 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
   </a>
 </p>
-
-<a href="javascript:void(document.location.href = 'http://localhost:5500');" target="_blank">PWA</a>
 <!-- ICONS
 https://github.com/devicons/devicon/tree/master/icons
 -->
