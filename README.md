@@ -151,6 +151,7 @@ Sou completamente apaixonado por tecnologia, ciência e inovação! Desde os 14 
     <img alt="Ubuntu" title="Linux Ubuntu" width="30px"
          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" />
   </a>
+  <a href="javascript:void(document.location.href = 'http://localhost:5500');">PWA</a>
 </p>
 
 <!-- ICONS
